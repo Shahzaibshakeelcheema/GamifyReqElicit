@@ -1,0 +1,32 @@
+.logindiv{
+    margin-top: 7vw;
+    border-radius: 12px;
+}
+.logindiv input{
+    font-family: 'Font Awesome 6 Free', "Open Sans", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    text-decoration: inherit;
+    font-size: 12px;;
+    padding:12px;
+    letter-spacing: 2px;
+    padding-left: 20px;
+}
+.logdiv{
+   
+    
+        background-image: url('../background.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-bottom: 60px;
+        position: fixed;
+        margin-top: -7vw;
+       width: 100%;
+       height: 100%;
+       z-index: -1;
+       opacity: 0.6;
+      
+      
+    
+    
+}
